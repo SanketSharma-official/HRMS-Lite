@@ -1,0 +1,10 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/hrms.db
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env
